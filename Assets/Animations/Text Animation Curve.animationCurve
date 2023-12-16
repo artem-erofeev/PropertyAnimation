@@ -1,0 +1,74 @@
+- !<AnimationCurve/e4ae5995-b524-485b-a5c9-268a3d4906c3>
+  TrackProperties:
+    - size
+    - dropshadowSettings.offset.x
+  Properties:
+    dropshadowSettings.offset.x:
+      keyFrames:
+        - time: -0.02500000037252903
+          value:
+            data: -1.9849998950958252
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 1.4700000286102295
+          value:
+            data: 2.0150001049041748
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 3.0099999904632568
+          value:
+            data: -1
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+    size:
+      keyFrames:
+        - time: 0
+          value:
+            data: 0
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 0.36000034213066101
+          value:
+            data: 2.9649996757507324
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 1}
+        - time: 1.4850000143051147
+          value:
+            data: 2.3749995231628418
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.85351568460464478, y: -0.99999773502349854}
+            outControlWeight: {x: 0.31999999284744263, y: 0}
+        - time: 2.1449999809265137
+          value:
+            data: 1.9950000047683716
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.12500007450580597, y: 0.72333306074142456}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 2.994999885559082
+          value:
+            data: 0.02500000037252903
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+  Name: ""

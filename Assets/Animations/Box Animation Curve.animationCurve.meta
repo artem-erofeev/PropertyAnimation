@@ -1,0 +1,9 @@
+- !<AssetImportMetadata/4b8ced2a-e638-4c9b-96fe-f32f40fe9b10>
+  ImporterSettings: !<AssetImporterSettings/5d6f721d-cf56-4f8b-93ba-ff11c9ce436b>
+    {}
+  ImportedAssetIds:
+    AnimationCurve: aa21ef44-7df6-4686-8c14-cc8aaf7be01a
+  ImporterName: AnimationCurveImporter
+  PrimaryAsset: !<reference> aa21ef44-7df6-4686-8c14-cc8aaf7be01a
+  PackageType: CannotBeUnpacked
+  AssetData: !<own> 00000000-0000-0000-0000-000000000000

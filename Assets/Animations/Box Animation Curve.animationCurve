@@ -1,0 +1,61 @@
+- !<AnimationCurve/aa21ef44-7df6-4686-8c14-cc8aaf7be01a>
+  TrackProperties:
+    - transform.localRotationVec3.z
+    - transform.localRotationVec3.x
+    - transform.localRotationVec3.y
+  Properties:
+    transform.localRotationVec3.y:
+      keyFrames:
+        - time: 0
+          value:
+            data: 0
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 4.0299992561340332
+          value:
+            data: 4.8799967765808105
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+    transform.localRotationVec3.x:
+      keyFrames:
+        - time: 0
+          value:
+            data: 0
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 4.070000171661377
+          value:
+            data: 2.8299999237060547
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+    transform.localRotationVec3.z:
+      keyFrames:
+        - time: 0.0049998615868389606
+          value:
+            data: 0.98997938632965088
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+            outControlWeight: {x: 0.75999999046325684, y: 0}
+        - time: 9.9950008392333984
+          value:
+            data: 24.965000152587891
+            leftTangent: Free
+            rightTangent: Free
+            weightedMode: None
+            inControlWeight: {x: 0.23999999463558197, y: 1}
+            outControlWeight: {x: 0.33000001311302185, y: 0.33000001311302185}
+  Name: ""

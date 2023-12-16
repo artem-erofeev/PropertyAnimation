@@ -1,0 +1,10 @@
+- !<AssetImportMetadata/faaff319-d362-43a5-a3e4-e46019f36965>
+  ImporterSettings: !<GraphImporterSettings/002113e9-c08c-4d1e-8fdb-eb134c34de79>
+    NGSCommit: 1.1
+    CrossCompilerCommit: 1.1
+  ImportedAssetIds:
+    ShaderGraph: 38fb99f5-125f-4654-b0a8-c8d55c98d180
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 38fb99f5-125f-4654-b0a8-c8d55c98d180
+  PackageType: CannotBeUnpacked
+  AssetData: !<own> 00000000-0000-0000-0000-000000000000
